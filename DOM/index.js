@@ -1,0 +1,1 @@
+document.querrySelector("h1").innerHTML = "GoodBye";
